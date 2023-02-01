@@ -138,7 +138,7 @@ Tick the checkbox by replacing space in `[ ]` with `[x]` corresponding to your r
 - [ ]  6
 - [ ]  7
 - [ ]  8
-- [ ]  9
+- [x]  9
 - [ ]  10
 - [x]  11
 - [x]  12
